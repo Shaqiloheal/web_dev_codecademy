@@ -7,7 +7,6 @@ In this project, you will follow step-by-step instructions to fix a fictional re
 The website’s existing index.html and style.css files are displayed in the text editor to the right. As you work, use both to see which elements you are selecting and styling. Most of the elements that you’ll need to add styles for already have rule sets in style.css to which you can add additional declarations.
 
 You’ll go through Davie’s Burger’s menu item roughly from top to bottom. Let’s begin with styling the <nav> element containing the logo and navigation elements.
-
 - Set the width of the img to 180 pixels.
 - Center the img horizontally using the margin property.
 
